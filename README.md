@@ -8,6 +8,37 @@ C++とPythonでテンプレートが公開
 
 講習会資料はslackを見てね
 
+## 例題
+
+### ABC055B Traning Camp
+
+https://atcoder.jp/contests/abc055/tasks/abc055_b 
+
+#### 回答例
+
+C++ https://atcoder.jp/contests/abc055/submissions/14641799 
+
+Python https://atcoder.jp/contests/abc055/submissions/14652249 
+
+### ABC034C 経路
+
+https://atcoder.jp/contests/abc034/tasks/abc034_c
+#### 回答例
+C++ https://atcoder.jp/contests/abc034/submissions/14642357 
+
+Python https://atcoder.jp/contests/abc034/submissions/14652693 
+
+
+
+### ABC021D　多重ループ
+
+https://atcoder.jp/contests/abc021/tasks/abc021_d
+
+
+#### 回答例
+C++ https://atcoder.jp/contests/abc021/submissions/14653275 
+Python https://atcoder.jp/contests/abc021/submissions/14653864 
+
 
 ## テンプレートの種類
 
