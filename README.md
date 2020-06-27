@@ -37,6 +37,7 @@ https://atcoder.jp/contests/abc021/tasks/abc021_d
 
 #### 回答例
 C++ https://atcoder.jp/contests/abc021/submissions/14653275 
+
 Python https://atcoder.jp/contests/abc021/submissions/14653864 
 
 
